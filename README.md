@@ -1,4 +1,4 @@
-# jumpstone
+# Jumpstone
 Reverse engineered hack to enable the timelock on the Playnetic Jumpstone
 
 The Playnetic Jumpstone is a very cool device that allows you to play MP3 music through kinetic energy; no need for wires or batteries. In order to prevent music being played the whole night long one can enable a timelock. This works very simple:
