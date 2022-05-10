@@ -1,0 +1,4 @@
+time 12:00
+
+starttime 08:00
+stop_time 20:00
